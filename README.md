@@ -14,3 +14,8 @@ SciPy ecosystem. Here's a few:
 - [Codeacademy Python track](https://www.codecademy.com/learn/python) - if you're new to programming
 - [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 - [Pandas tutorials](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
+
+# Getting started
+- If you don't already have it [download Anaconda](https://www.continuum.io/downloads)
+- Navigate to your local copy of this repo
+- Execute `jupyter-notebook 00-python-intro-w-solutions.ipynb`
